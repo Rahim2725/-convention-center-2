@@ -3,7 +3,7 @@ body{
     font-family: 'Roboto', sans-serif ;
 }
 
-/* button style  */
+/* primary  style  */
 .primary-button{
     text-decoration: none;
     border: 0;
@@ -12,4 +12,54 @@ body{
     background-color:white;
     padding: 15px 25px ;
     border-radius: 10px;
+}
+.primari-titel{
+    color: #231D4F;
+    font-weight: 900;
+}
+.packge-titel{
+    color: #231D4F;
+    font-weight: 900;
+}
+.choose-plan-button{
+    text-align: center;
+}
+.choose-plan-button a{
+    text-decoration: none;
+    color: blue;
+    background-color: #F496D1;
+    padding: 10px 25px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+/* the welding style */
+.welding-puls{
+    color: white;
+    background-color: #3F87F5;
+    border: 0;
+    border-radius: 20px;
+    position: relative;
+    bottom: 50px;
+}
+.welding-titel{
+    color: white;
+}
+.welding-button{
+    text-align: center;
+}
+.welding-button a{
+    text-decoration: none;
+    color: #3F87F5;
+    background-color: white;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+.packge{
+    margin-top: 70px;
+}
+
+/* the footer style  */
+footer{
+    background-color: #0B0D17;
 }
